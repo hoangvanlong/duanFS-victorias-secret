@@ -3,4 +3,6 @@ angular.module('app.controllers', [
     'menu.controller',
     'panties.controller',
     'bras.controller',
+    'lingerie.controller',
+    'accessories.controller'
 ])

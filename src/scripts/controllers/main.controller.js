@@ -8,6 +8,8 @@ function _mainController($scope, $http, toastr) {
         $scope.settings = eval(response.data.settings);
         $scope.panties = eval(response.data.panties);
         $scope.bras = eval(response.data.bras);
+        $scope.lingerie = eval(response.data.lingerie);
+        $scope.accessories = eval(response.data.accessories);
         toastr.success('Init thành công!', 'Thông báo!', { timeOut: 5000 })
     }, function(error) {
         console.log('Lỗi 000 - Main: ' + error);
