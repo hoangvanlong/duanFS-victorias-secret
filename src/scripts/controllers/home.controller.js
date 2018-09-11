@@ -1,5 +1,5 @@
-angular.module('home.controller', []).controller("HomeController", _homeController)
+angular.module('panties.controller', []).controller("pantiesController", _pantiesController)
 
-function _homeController($scope) {
-	$scope.demo = 'AAAAAA'
+function _pantiesController($scope) {
+    $scope.demo = 'AAAAAA'
 }

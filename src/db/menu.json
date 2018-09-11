@@ -1,30 +1,23 @@
 {
-	"menu": [
-		{
-			"id": 1,
-			"name": "Trang chủ",
-			"url": "home",
-			"icon": "fa-home"
-		}, {
-			"id": 2,
-			"name": "Gian hàng",
-			"url": "shop",
-			"icon": "fa-shopping-cart"
-		}, {
-			"id": 3,
-			"name": "Dịch vụ",
-			"url": "service",
-			"icon": "fa-coffee"
-		}, {
-			"id": 4,
-			"name": "Về chúng tôi",
-			"url": "about",
-			"icon": "fa-archive"
-		}, {
-			"id": 5,
-			"name": "Liên hệ",
-			"url": "contact",
-			"icon": "fa-at"
-		}
-	]
+    "menu": [{
+        "id": 1,
+        "name": "Panties",
+        "url": "panties",
+        "icon": "fa-home"
+    }, {
+        "id": 2,
+        "name": "Bras",
+        "url": "bras",
+        "icon": "fa-shopping-cart"
+    }, {
+        "id": 3,
+        "name": "Lingerie",
+        "url": "lingerie",
+        "icon": "fa-coffee"
+    }, {
+        "id": 4,
+        "name": "Accessories",
+        "url": "accessories",
+        "icon": "fa-archive"
+    }]
 }

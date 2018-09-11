@@ -1,4 +1,6 @@
 angular.module('app.routers', [
-	'home.router',
-	'about.router',
+    'panties.router',
+    'bras.router',
+    'lingerie.router',
+    'accessories.router'
 ])
