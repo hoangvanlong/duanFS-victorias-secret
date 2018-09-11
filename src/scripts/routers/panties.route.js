@@ -5,7 +5,7 @@ function _pantiesRoute($stateProvider, $urlRouterProvider, $urlMatcherFactoryPro
         .state('panties', {
             url: '/',
             data: {
-                pageTitle: 'Trang chủ'
+                pageTitle: 'Panties'
             },
             views: {
                 "@": {
