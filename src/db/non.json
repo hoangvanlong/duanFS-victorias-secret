@@ -1,28 +1,21 @@
 {
-    "settings": [{
+    "non": [{
         "id": 1,
-        "name": "quần sjip đỏ",
-        "gia": "3452$",
+        "name": "nón tai bèo",
+        "gia": "352$",
         "mota": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime consectetur consequatur dolores vel. Et, earum maiores. Sint voluptatum minima ipsam est mollitia! Quaerat labore dicta tempore recusandae id voluptate quod.",
-        "img": "img/quan1.jpg",
-        "link": "#~/home_sip"
+        "img": "img/quan1.jpg"
     }, {
         "id": 2,
-        "name": "quần đùi",
-        "gia": "378651$",
+        "name": "nón rơm",
+        "gia": "351$",
         "mota": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime consectetur consequatur dolores vel. Et, earum maiores. Sint voluptatum minima ipsam est mollitia! Quaerat labore dicta tempore recusandae id voluptate quod.",
-        "img": "img/quan2.jpg",
-        "link": "/home_sip"
+        "img": "img/quan1.jpg"
     }, {
         "id": 3,
-        "name": "quần ống rộng",
-        "gia": "35428$",
+        "name": "nón lá",
+        "gia": "358$",
         "mota": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime consectetur consequatur dolores vel. Et, earum maiores. Sint voluptatum minima ipsam est mollitia! Quaerat labore dicta tempore recusandae id voluptate quod.",
-        "img": "img/quan3.jpg",
-        "link": "/home_sip"
-    }],
-    "content": {
-        "logo1": "img/logo.png",
-        "footer": "project by phạm nguyuễn bảo nguyên"
-    }
+        "img": "img/quan1.jpg"
+    }]
 }

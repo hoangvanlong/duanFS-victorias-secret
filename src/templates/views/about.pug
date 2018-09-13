@@ -1,0 +1,10 @@
+.row
+	.col-md-4.item(ng-repeat="item in data")
+		a(href="http://")
+			figure
+				img.img-fluid(ng-src="{{item.img}}", alt="")
+				figcaption
+					.title
+						h3.mt-2 {{item.name}}
+						p {{item.gia}}
+						p {{item.mota}}

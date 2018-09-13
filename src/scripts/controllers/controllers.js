@@ -1,8 +1,9 @@
 angular.module('app.controllers', [
     'main.controller',
     'menu.controller',
-    'panties.controller',
-    'bras.controller',
-    'lingerie.controller',
-    'accessories.controller'
+    'home.controller',
+    'about.controller',
+    'ao.controller',
+    'non.controller',
+    'home_sip.controller',
 ])

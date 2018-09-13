@@ -5,11 +5,8 @@ function _mainController($scope, $http, toastr) {
         method: 'GET',
         url: '/db/main.json'
     }).then(function(response) {
-        $scope.settings = eval(response.data.settings);
-        $scope.panties = eval(response.data.panties);
-        $scope.bras = eval(response.data.bras);
-        $scope.lingerie = eval(response.data.lingerie);
-        $scope.accessories = eval(response.data.accessories);
+        $scope.data = eval(response.data.settings);
+        $scope.content = eval(response.data.content);
         toastr.success('Init thành công!', 'Thông báo!', { timeOut: 5000 })
     }, function(error) {
         console.log('Lỗi 000 - Main: ' + error);

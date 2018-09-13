@@ -1,23 +1,23 @@
 {
     "menu": [{
         "id": 1,
-        "name": "Panties",
-        "url": "panties",
+        "name": "Quần",
+        "url": "home",
         "icon": "fa-home"
     }, {
         "id": 2,
-        "name": "Bras",
-        "url": "bras",
+        "name": "Áo",
+        "url": "ao",
         "icon": "fa-shopping-cart"
     }, {
         "id": 3,
-        "name": "Lingerie",
-        "url": "lingerie",
+        "name": "Nón",
+        "url": "non",
         "icon": "fa-coffee"
     }, {
         "id": 4,
-        "name": "Accessories",
-        "url": "accessories",
+        "name": "Phụ kiện",
+        "url": "about",
         "icon": "fa-archive"
     }]
 }
